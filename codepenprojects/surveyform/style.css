@@ -1,0 +1,10 @@
+body {
+  font-family:'Roboto Condensed', Times New Roman;
+  text-align: center;
+  background-color: #B2B2B2;
+  
+.labels {
+  display: inline-block;
+  text-align: right;
+  
+}
